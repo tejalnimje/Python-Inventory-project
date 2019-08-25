@@ -1,0 +1,4 @@
+phone,200,14
+laptop,900,47
+hdd,200,40
+earphones,50,100
